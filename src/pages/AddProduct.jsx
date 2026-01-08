@@ -270,7 +270,7 @@ export default function AddProduct() {
                 value={formData.sub_category}
                 onChange={handleInputChange}
                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 outline-0  focus:ring-red-600 focus:border-transparent"
-                placeholder="Enter sub category"
+                placeholder="Enter SET A"
               />
             </div>
 
