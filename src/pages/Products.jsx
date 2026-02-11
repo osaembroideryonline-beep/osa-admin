@@ -26,6 +26,7 @@ const STATIC_CATEGORIES = [
   "Gods",
   "Kids",
   "Kurta",
+  "Kurthi",
   "Lehanga",
   "Logos",
   "Photos",
