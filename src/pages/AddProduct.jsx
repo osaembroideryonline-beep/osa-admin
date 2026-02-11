@@ -49,6 +49,7 @@ export default function AddProduct() {
   "Gods",
   "Kids",
   "Kurta",
+  "Kurthi",
   "Lehanga",
   "Logos",
   "Photos",
